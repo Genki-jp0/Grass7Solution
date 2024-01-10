@@ -1,0 +1,18 @@
+[submodule "Source/Grass7 API"]
+	path = Source/Grass7 API
+	url = https://github.com/Genki-jp0/Grass7API.git
+[submodule "Source/Grass7 IPV6 Disabler"]
+	path = Source/Grass7 IPV6 Disabler
+	url = https://github.com/Genki-jp0/Grass7IPv6Disabler.git
+[submodule "Source/Grass7 Version"]
+	path = Source/Grass7 Version
+	url = https://github.com/Genki-jp0/Grass7Version.git
+[submodule "Source/Grass7 Updater"]
+	path = Source/Grass7 Updater
+	url = https://github.com/Genki-jp0/Grass7UpdaterInstaller.git
+[submodule "Source/Grass7 Updater deployer"]
+	path = Source/Grass7 Updater deployer
+	url = https://github.com/Genki-jp0/Grass7Updater.git
+[submodule "Source/Grass7 DNS Configurator"]
+	path = Source/Grass7 DNS Configurator
+	url = https://github.com/Genki-jp0/Grass7DNSConfigurator.git
