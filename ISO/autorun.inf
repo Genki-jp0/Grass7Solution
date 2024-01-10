@@ -1,0 +1,7 @@
+[AutoRun.Amd64]
+open=sources\gr7setup.exe
+icon=sources\gr7setup.exe,0
+
+[AutoRun]
+open=sources\gr7arch32.exe
+icon=sources\gr7arch32.exe,0
