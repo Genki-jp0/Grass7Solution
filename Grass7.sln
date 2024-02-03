@@ -5,12 +5,12 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grass7 API", "Source\Grass7 API\Grass7 API.vcxproj", "{A10550F3-394E-4299-B1CF-F8437F9BE2C9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grass7 Update Installer", "Source\Grass7 Updater\Grass7 Updater.vcxproj", "{CABD44ED-8C46-4FB1-9D1E-2E228357DDC2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grass7 Update Installer", "Source\Grass7 Update Installer\Grass7 Updater.vcxproj", "{CABD44ED-8C46-4FB1-9D1E-2E228357DDC2}"
 	ProjectSection(ProjectDependencies) = postProject
 		{A10550F3-394E-4299-B1CF-F8437F9BE2C9} = {A10550F3-394E-4299-B1CF-F8437F9BE2C9}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grass7 Update Package Preparer", "Source\Grass7 Updater deployer\Grass7 Updater deployer.vcxproj", "{F0A5F2E9-A72C-4228-80F8-498CC4939D34}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grass7 Update Package Preparer", "Source\Grass7 Update\Grass7 Updater deployer.vcxproj", "{F0A5F2E9-A72C-4228-80F8-498CC4939D34}"
 	ProjectSection(ProjectDependencies) = postProject
 		{A10550F3-394E-4299-B1CF-F8437F9BE2C9} = {A10550F3-394E-4299-B1CF-F8437F9BE2C9}
 	EndProjectSection
